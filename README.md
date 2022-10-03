@@ -55,7 +55,7 @@ tvshows, next = imdb.new_tvshows(count=5,next=next)
 # most popular tvshows
 tvshows, next = imdb.most_popular_tvshows(count=5)
 # for next:
-tvshows, next = imdb.new_tvshows(count=5,next=next)
+tvshows, next = imdb.most_popular_tvshows(count=5,next=next)
 ```
 
 ### License
