@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(name='simpleimdb',
     version='0.0.1',
     url='https://github.com/zoreu/simpleimdb',
-    license='GNU GENERAL PUBLIC LICENSE',
+    license='GPL',
     author='Joel Silva',
     long_description=readme,
     long_description_content_type="text/markdown",
