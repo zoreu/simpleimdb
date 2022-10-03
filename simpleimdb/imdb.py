@@ -493,27 +493,3 @@ class imdb:
             if href:
                 next = 'https://www.imdb.com' + href
         return tvshows, next               
-
-        
-        
-
-        
-        
-        
-
-
-              
-
-                
-
-
-
-            
-
-
-
-        
-    
-
-        
-    
